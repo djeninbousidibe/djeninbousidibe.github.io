@@ -1,0 +1,25 @@
+.zei{
+	justify-content: flex-end;
+}
+.dj{
+	justify-content: flex-start;
+
+}
+.red{
+
+	border-left:2px solid;
+	border-top-left-radius: 30px;
+    border-bottom:2px solid;
+    border-bottom-left-radius:30px;
+    border-top: 2px solid;
+    
+
+    padding: 30px;
+}
+.left{
+	border-right:2px solid;
+	border-top-right-radius:30px; 
+	border-bottom: 2px solid;
+	border-bottom-right-radius:30px;
+	border-top:2px solid;
+}
