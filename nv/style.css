@@ -6,10 +6,13 @@
 
 }
 
-.lef{
+.lef{background-color:#f7f3f2;
+	width: 55%;
 	padding-right:10px; 
 }
-.red{
+.red{background-color:#fad3fd;
+	width:55%;
+
 
 	padding:10px;
 }
